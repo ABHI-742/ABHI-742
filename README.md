@@ -79,12 +79,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHI-742&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHI-742&layout=compact&theme=radical)
-
----
 
 ### 🏆 GitHub Trophies
 
