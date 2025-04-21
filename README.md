@@ -1,4 +1,4 @@
-Here’s your updated markdown with the text "Full Stack Developer | Cloud Architect | Software Engineer" centered:
+Here’s your updated markdown with the changes:
 
 ---
 
@@ -32,9 +32,10 @@ Here’s your updated markdown with the text "Full Stack Developer | Cloud Archi
 #### **Frontend Development**
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![React]()](https://reactjs.org/)  
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
+ <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    </a>
 #### **Backend Development**
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
@@ -91,4 +92,4 @@ Here’s your updated markdown with the text "Full Stack Developer | Cloud Archi
 
 ---
 
-Let me know if this works!
+Let me know if you'd like any further changes!
