@@ -1,9 +1,12 @@
-Absolutely, Abhi! Here's your updated markdown with clickable icons for each of your technical skills, using proper image links from official or reliable sources. This version is also GitHub-flavored and copy-paste friendly for your README or portfolio:
+Here’s your updated markdown with the text "Full Stack Developer | Cloud Architect | Software Engineer" centered:
 
 ---
 
 # Hi there! I'm Abhi Venkata Sri Krishna Devarayalu Anumanchi 👋  
-**Full Stack Developer | Cloud Architect | Software Engineer**
+
+<p align="center">
+  <strong>Full Stack Developer | Cloud Architect | Software Engineer</strong>
+</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ABHI-742&style=flat&color=0e75b6)
 
@@ -88,4 +91,4 @@ Absolutely, Abhi! Here's your updated markdown with clickable icons for each of 
 
 ---
 
-Let me know if you'd like this exported as a `README.md` or personalized further!
+Let me know if this works!
