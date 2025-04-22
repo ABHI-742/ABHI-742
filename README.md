@@ -55,10 +55,10 @@ Got it! You want to replace the badge-style icons with individual image tags for
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
   </a>
   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="Thymeleaf" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg](https://seeklogo.com/vector-logo/441827/thymeleaf)" alt="Thymeleaf" width="40" height="40"/>
   </a>
-  <a href="https://docs.oracle.com/javaee/7/tutorial/servlets012.htm" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Java_Server_Pages_logo.svg/768px-Java_Server_Pages_logo.svg.png" alt="JSP" width="40" height="40"/>
+   <a href="https://www.svgrepo.com/svg/142781/jsp-file-format-symbol" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" alt="JSP" width="40" height="40"/>
   </a>
 </p>
 
@@ -96,9 +96,6 @@ Got it! You want to replace the badge-style icons with individual image tags for
   </a>
   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/T/thymeleaf-logo-6A2767C1C1-seeklogo.com.png" alt="Thymeleaf" width="40" height="40"/>
-  </a>
-  <a href="https://www.svgrepo.com/svg/142781/jsp-file-format-symbol" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" alt="JSP" width="40" height="40"/>
   </a>
 </p>
 
