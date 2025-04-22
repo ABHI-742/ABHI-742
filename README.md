@@ -2,7 +2,7 @@ Here’s your updated markdown with the changes:
 
 ---
 
-# Hi there! I'm Abhi Venkata Sri Krishna Devarayalu Anumanchi 👋  
+# Hey Hi there! I'm Abhi Venkata Sri Krishna Devarayalu Anumanchi 👋  
 
 <p align="center">
   <strong>Full Stack Developer | Cloud Architect | Software Engineer</strong>
@@ -54,11 +54,17 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
   </a>
+  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="Thymeleaf" width="40" height="40"/>
+  </a>
+  <a href="https://docs.oracle.com/javaee/7/tutorial/servlets012.htm" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Java_Server_Pages_logo.svg/768px-Java_Server_Pages_logo.svg.png" alt="JSP" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Backend Development</h3>
 <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -101,11 +107,20 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://rancher.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="40" height="40"/>
   </a>
 </p>
 
@@ -121,6 +136,7 @@ Got it! You want to replace the badge-style icons with individual image tags for
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
