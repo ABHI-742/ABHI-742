@@ -21,15 +21,13 @@ Here’s your updated markdown with the changes:
 ### 👨‍💻 About Me
 
 🎓 Graduate student at **George Mason University**  
-💼 Software Engineer with strong industry experience  
+💼 Software Engineer with strong Knowledge  
 🌱 Enthusiastic about scalable cloud systems, DevOps, and full-stack development  
 🚀 Passionate about building cloud-native architectures and high-performance web applications  
 
 ---
 
 ### 🛠️ Technical Skills
-
-Got it! You want to replace the badge-style icons with individual image tags for **all tools**, similar to how the Angular logo is used. Here's the updated version using only `<img>` tags with clickable links, styled uniformly for consistency:
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
@@ -154,6 +152,7 @@ Got it! You want to replace the badge-style icons with individual image tags for
 ---
 
 ### 📜 Certifications
+
 - 🎗️ [AWS Certified Cloud Practitioner]
 - 🎗️ [AWS Certified Solutions Architect – Associate]
 - 🎗️ [AWS Certified Developer – Associate]
@@ -179,5 +178,3 @@ Got it! You want to replace the badge-style icons with individual image tags for
 *Thanks for visiting my profile! Let's build something amazing together ✨*
 
 ---
-
-Let me know if you'd like any further changes!
