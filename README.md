@@ -55,7 +55,7 @@ Got it! You want to replace the badge-style icons with individual image tags for
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
   </a>
   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg](https://seeklogo.com/vector-logo/441827/thymeleaf)" alt="Thymeleaf" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" alt="Thymeleaf" width="40" height="40"/>
   </a>
    <a href="https://www.svgrepo.com/svg/142781/jsp-file-format-symbol" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" alt="JSP" width="40" height="40"/>
@@ -94,9 +94,7 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" width="40" height="40"/>
   </a>
-  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/thymeleaf-logo-6A2767C1C1-seeklogo.com.png" alt="Thymeleaf" width="40" height="40"/>
-  </a>
+
 </p>
 
 <h3 align="left">DevOps & Tools</h3>
