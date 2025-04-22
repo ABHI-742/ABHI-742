@@ -92,7 +92,13 @@ Got it! You want to replace the badge-style icons with individual image tags for
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="REST API" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" width="40" height="40"/>
+  </a>
+  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/T/thymeleaf-logo-6A2767C1C1-seeklogo.com.png" alt="Thymeleaf" width="40" height="40"/>
+  </a>
+  <a href="https://www.svgrepo.com/svg/142781/jsp-file-format-symbol" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" alt="JSP" width="40" height="40"/>
   </a>
 </p>
 
@@ -107,9 +113,6 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -119,10 +122,14 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+  </a>
   <a href="https://rancher.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" width="40" height="40"/>
   </a>
 </p>
+
 
 <h3 align="left">IDEs</h3>
 <p align="left">
