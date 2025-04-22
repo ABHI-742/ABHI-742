@@ -58,6 +58,12 @@ Got it! You want to replace the badge-style icons with individual image tags for
 
 <h3 align="left">Backend Development</h3>
 <p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
@@ -116,22 +122,6 @@ Got it! You want to replace the badge-style icons with individual image tags for
   </a>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-Let me know if you want to style them in a grid or row layout for better visual alignment!
 ---
 
 ### 🔭 Current Focus
@@ -144,8 +134,10 @@ Let me know if you want to style them in a grid or row layout for better visual 
 
 ### 📜 Certifications
 
-- 🎗️ [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  
-- 🎗️ [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- 🎗️ [AWS Certified Solutions Architect – Associate]
+- 🎗️ [AWS Certified Developer – Associate]
+- 🎗️ [AWS Certified DevOps – Professional]
+
 
 ---
 
