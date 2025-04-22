@@ -123,6 +123,12 @@ Got it! You want to replace the badge-style icons with individual image tags for
   <a href="https://rancher.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" width="40" height="40"/>
   </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
+  </a>
 </p>
 
 
@@ -151,7 +157,7 @@ Got it! You want to replace the badge-style icons with individual image tags for
 ---
 
 ### 📜 Certifications
-
+- 🎗️ [AWS Certified Cloud Practitioner]
 - 🎗️ [AWS Certified Solutions Architect – Associate]
 - 🎗️ [AWS Certified Developer – Associate]
 - 🎗️ [AWS Certified DevOps – Professional]
