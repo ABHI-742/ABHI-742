@@ -38,8 +38,12 @@
 - Deployed a 16-service backend on **AWS ECS Fargate** with SNS/SQS, X-Ray tracing, Cognito + JWT auth, RBAC, rate limiting, and audit logging across 50+ REST endpoints  
 
 **Back End Developer** — *Freelance* · Jul 2025 – Jun 2026  
-- Shipped real-time travel posts, event timelines, and WebSocket live chat on a microservices architecture with **Eureka** service discovery  
-- Built an event-driven notification service for pre-journey reminders, reducing missed trips by **10%**  
+- Architected a **6-service Spring Boot microservices** platform (User, Posts, Chat, Notification, API Gateway, Eureka registry) with **Spring Cloud Gateway** routing and **Netflix Eureka** service discovery for fault-tolerant horizontal scaling  
+- Built real-time **WebSocket** chat with **STOMP over SockJS** and a **React + Material UI** frontend  
+- Designed **RESTful APIs** for travel posts, events, and timelines on **MongoDB**, with **OpenFeign** for inter-service communication  
+- Engineered an **event-driven notification service** sending reminders 24 hours before each journey, reducing missed trips by **10%**  
+- Secured services with **JWT** authentication and **RBAC** at the API gateway  
+- Wrote unit tests with **JUnit** and **Mockito** and containerized services with **Docker**  
 
 **Full-Stack Developer** — *SyncoreLabs* · Remote (India) · Jan 2025 – Mar 2025  
 - Built real-time collaboration features with WebSocket live chat, presence, typing indicators, and live location tracking  
