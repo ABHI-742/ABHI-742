@@ -1,4 +1,4 @@
-# Hi, I'm Abhi Venkata Sri Krishna Devarayalu Anumanchi 👋
+# Hey Hi there! I'm Abhi Venkata Sri Krishna Devarayalu Anumanchi 👋
 
 <p align="center">
   <strong>Software Engineer | Generative AI & Cloud | Full Stack Developer | 4× AWS Certified</strong>
@@ -15,13 +15,11 @@
 
 ### 👨‍💻 About Me
 
-Software engineer specializing in **Generative AI**, **backend development**, and **AWS**.
-
-- 💼 **Workforce Solution Intelligence Developer** at **Montefiore Einstein**: Power BI analytics, Microsoft Copilot Studio agents, and automated Workday data pipelines  
-- 🤖 Previously built a production **Anthropic Claude** assistant with 33 tools, a **RAG** pipeline over encrypted enterprise data, and a 16-service backend on **AWS ECS Fargate** at Mars Restoration  
-- 🎓 **M.S. in Computer Science**, George Mason University (GPA 3.77) · **B.Tech in Computer Science**, Malla Reddy Engineering College (CGPA 8.53)  
-- ☁️ **AWS Certified**: Cloud Practitioner, Developer – Associate, Solutions Architect – Associate, DevOps Engineer – Professional  
-- 📍 Fairfax, Virginia  
+💼 **Workforce Solution Intelligence Developer** at **Montefiore Einstein Technology** (Remote, New York)  
+🎓 **M.S. in Computer Science**, George Mason University (GPA 3.77)  
+🤖 Building production **Generative AI** systems — agentic assistants, RAG pipelines, and LLM evaluation  
+☁️ **4× AWS Certified**, with hands-on experience in cloud-native, microservices, and DevOps workflows  
+📍 Based in Fairfax, Virginia  
 
 ---
 
