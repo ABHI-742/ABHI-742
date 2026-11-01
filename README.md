@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://abhi-742.github.io/"><img src="https://img.shields.io/badge/Portfolio-abhi--742.github.io-64FFDA?style=flat&logo=googlechrome&logoColor=0A192F" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/devarayalu-anumanchi/"><img src="https://img.shields.io/badge/LinkedIn-devarayalu--anumanchi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:avsk742@gmail.com"><img src="https://img.shields.io/badge/Email-avsk742%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/Abhi_krishna742/"><img src="https://img.shields.io/badge/LeetCode-Abhi__krishna742-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -233,10 +234,19 @@
 
 ### 🚀 Featured Projects
 
-**Full-Stack Student Survey Application** · George Mason University  
+**[Visitor Management System](https://github.com/ABHI-742/visitormanagement)**  
+Spring Boot REST backend for residential visitor tracking with Admin, Gatekeeper, and Resident roles, Spring Security with Redis-backed sessions, paginated visit history, scheduled expiry of stale visits, and OpenAPI docs.
+
+**[Flight Reservation System](https://github.com/ABHI-742/flighbooker)**  
+Spring Boot + Spring Security app for flight search, user registration, and booking on MySQL, which generates PDF itineraries with iText and emails them to passengers.
+
+**[Huffman Text File Compressor](https://github.com/ABHI-742/Text-File-Compressor)**  
+Java Huffman coding with a priority-queue-built prefix tree and round-trip decoding, cutting a Project Gutenberg book's size by 38.75% versus fixed 7-bit encoding.
+
+**[Full-Stack Student Survey Application](https://github.com/ABHI-742/Full-Stack-Student-Survey-Application)** · George Mason University  
 Angular + Spring Boot (Spring Data JPA) app, containerized with Docker and deployed on EC2 with a Jenkins CI/CD pipeline and Rancher orchestration. Uses Amazon RDS (multi-AZ) and S3 static hosting, and reached 99.99% uptime with up to 200 concurrent users.
 
-**Microservices-Based Survey Application** · George Mason University  
+**[Microservices-Based Survey Application](https://github.com/ABHI-742/studentmicroservice)** · George Mason University  
 Spring Boot microservices with REST APIs responding in under 200ms, backed by Amazon RDS (MySQL). Runs on Kubernetes with a Jenkins CI/CD pipeline, which cut deployment time by 50% and increased release frequency by 40%.
 
 ---
