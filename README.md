@@ -234,6 +234,12 @@
 
 ### 🚀 Featured Projects
 
+**[ClaimLens: AI Insurance Claim Triage](https://github.com/ABHI-742/claimlens)** · Python, FastAPI, Claude API, pgvector, AWS S3/SQS, React  
+Reads claim documents with OCR, masks PII before any model call, extracts structured facts with Claude, and checks coverage against policy clauses retrieved from pgvector, rejecting answers that cite clauses it never retrieved. Fraud rules and a triage score route claims to review queues through an SQS pipeline with retries and a dead-letter queue, with rotating refresh tokens, role-based access, and 34 integration tests.
+
+**[SplitPay: Real-Time Expense Splitting](https://github.com/ABHI-742/splitpay)** · Node.js, TypeScript, PostgreSQL, Redis, Socket.IO, BullMQ, Stripe  
+Group expense tracker with four split methods, ledger-derived balances, and a min-cash-flow algorithm that settles a group in at most n−1 payments. Live updates over Socket.IO and Redis pub/sub, Stripe Checkout with signed, idempotent webhooks, and recurring bills on BullMQ with backoff retries and a dead-letter queue, covered by 32 tests against real Postgres and Redis.
+
 **[Visitor Management System](https://github.com/ABHI-742/visitormanagement)**  
 Spring Boot REST backend for residential visitor tracking with Admin, Gatekeeper, and Resident roles, Spring Security with Redis-backed sessions, paginated visit history, scheduled expiry of stale visits, and OpenAPI docs.
 
